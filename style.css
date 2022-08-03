@@ -1,0 +1,26 @@
+body{
+    background: #000000;
+   text-align: justify;
+}
+
+p{
+    text-align: left;
+    font-size: 25px;
+    color:ghostwhite;
+}
+h1 {
+    text-align: center;
+    color:  #FA8072;
+    font-size: 55px;
+    background: #00BFFF;
+}
+b {
+    color: rgb(238, 255, 0);
+}
+i {
+    font-size: 20px;
+    }
+
+s {
+    text-align: center;
+}
